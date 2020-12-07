@@ -27,9 +27,7 @@ Before installing this application on yopur local computer, ensure that you have
    4. Search for any movie you choose
         https://picaflic.herokuapp.com/Library
    5. Click on the movie for more details and options to rate, comment and save the movie to the database
-        https://picaflic.herokuapp.com/Library
-        <br />
-        <img src="client/src/img/popup.png" alt="More Movie Info Popup Page">
+       https://picaflic.herokuapp.com/Library
    6. Close the popup and logout of the application
 ## Technologies
    - Node.js
