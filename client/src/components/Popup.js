@@ -10,7 +10,7 @@ function Popup({ selected, closePopup}) {
 		const db = firebase.firestore();
 		console.log(db)
     db.collection('movies').add({...selected })
-     
+     window.M.toast({ html: `A new movie titled '${selected.Title}' was added to your Library!` })
     }
     
 
